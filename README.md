@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Abhilash Shinde, a third-year Computer Engineering student with a passion for machine learning and data science. I enjoy diving deep into data, uncovering patterns, and building predictive models to solve real-world problems.</p>
+<p align="left">Hello! I'm Abhilash Shinde, a final year Computer Engineering student with a passion for machine learning and data science. I enjoy diving deep into data, uncovering patterns, and building predictive models to solve real-world problems.</p>
 
 ###
 
